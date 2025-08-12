@@ -8,5 +8,8 @@
   },
   "dependencies": {
     "node-fetch": ""
+  },
+  "engines": {
+        "node": "22.x"
   }
 }

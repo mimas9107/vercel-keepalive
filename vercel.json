@@ -2,9 +2,7 @@
   "version": 2,
   "functions": {
     "api/ping.js": {
-      "engines": {
-        "node": "22.x"
-      }
+      "runtime": "nodejs"
     }
   }
 }

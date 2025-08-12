@@ -13,6 +13,7 @@
 ---
 
 ## 專案結構
+```
 vercel-keepalive/
 │
 ├── api/
@@ -21,7 +22,7 @@ vercel-keepalive/
 ├── package.json # 專案依賴與設定
 ├── vercel.json # Vercel 平台部署設定與排程設定
 └── README.md # 專案說明文件
-
+```
 ---
 
 ## 環境變數設定
